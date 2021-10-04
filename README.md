@@ -1,20 +1,18 @@
 # Dynamic JSON Powered forms for Angular Material
 
 This library introduces the powerful Form.io JSON forms into the Angular Material framework.
+This fork make's the library usable in angular 12 
 
 ## Installation
 
-To install this library into your application, you will need to run the following.
+To install this library into your application, you will need to copy the formio-angular-material folder and place it somewhere in the project.
 
-```
-npm install formiojs @formio/angular @formio/angular-material
-```
 
 Then, you will need to add the following to your codebase.
 
 ***src/app/app.module.ts***
 ```ts
-import { MatFormioModule } from '@formio/angular-material';
+import { MatFormioModule } from '{path to "formio-angular-material/aguler-material-formio.module"}';
 
 @NgModule({
   declarations: [
