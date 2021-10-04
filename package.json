@@ -13,9 +13,7 @@
   "peerDependencies": {
     "@formio/angular": "^5.0.0-rc.4",
     "formiojs": "^4.12.4-rc.3",
-    "@angular/cdk": "^10.0.0 | ^11.0.0",
-    "@angular/flex-layout": "^10.0.0 | ^11.0.0",
-    "@angular/material": "^10.0.0 | ^11.0.0"
+    "@angular/flex-layout": "^10.0.0 | ^11.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.1"
@@ -24,7 +22,7 @@
     "@angular-devkit/build-angular": "^12.2.8",
     "@angular-devkit/build-ng-packagr": "~0.1002.0",
     "@angular/animations": "^12.2.8",
-    "@angular/cdk": "^11.0.3",
+    "@angular/cdk": "^12.2.8",
     "@angular/cli": "^12.2.8",
     "@angular/common": "^12.2.8",
     "@angular/compiler": "^12.2.8",
@@ -34,7 +32,7 @@
     "@angular/flex-layout": "^10.0.0-beta.32",
     "@angular/forms": "^12.2.8",
     "@angular/language-service": "^12.2.8",
-    "@angular/material": "^11.0.3",
+    "@angular/material": "^12.2.8",
     "@angular/platform-browser": "^12.2.8",
     "@formio/angular": "^5.0.0-rc.4",
     "@types/jasmine": "^3.6.2",
